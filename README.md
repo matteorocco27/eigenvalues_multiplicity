@@ -1,1 +1,2 @@
 # eigenvalues_multiplicity
+Developed a MATLAB program to analyze the diagonalizability of real matrices by computing the algebraic and geometric multiplicity of their eigenvalues. The geometric multiplicity was estimated via LU factorization, while the algebraic multiplicity was determined by exploiting the convergence properties of Newton's method on the characteristic polynomial. The implementation was validated on synthetic test matrices constructed using Jordan normal form.
